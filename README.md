@@ -1,6 +1,8 @@
 # CrimeAnalysis2017
 原田先生 応用空間情報学Ⅲ 2016 講義資料
 
+![kgm3100_concept_50pct_winmeta_export](https://user-images.githubusercontent.com/416977/28445804-bc6fadd2-6e01-11e7-985d-d1d5f4c6a5b4.png)
+
 
 ## 聞き書きマップ
 ### インストーラーダウンロード
