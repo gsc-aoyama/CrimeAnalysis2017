@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SaveXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImageDir>C:\gis_work\KGM3100_サンプルデータ\KGM3100_sample</ImageDir>
+  <SoundPath>C:\gis_work\KGM3100_サンプルデータ\KGM3100_sample\REC001.WAV</SoundPath>
+  <GpxPath>C:\gis_work\KGM3100_サンプルデータ\KGM3100_sample\サンプルデータ.gpx</GpxPath>
+  <A_little>3</A_little>
+  <HoseiHour>0</HoseiHour>
+  <HoseiMin>9</HoseiMin>
+  <HoseiSec>45</HoseiSec>
+  <HoseiType>遅く</HoseiType>
+  <SettingFlag>true</SettingFlag>
+  <HoseiFlag>true</HoseiFlag>
+  <HoseiPos>12.6310834</HoseiPos>
+  <MoveHour>12</MoveHour>
+  <MoveMin>1</MoveMin>
+  <MoveSec>30</MoveSec>
+  <MoveFlag>true</MoveFlag>
+  <PictureFlag>-1</PictureFlag>
+  <rowIndex>2</rowIndex>
+  <span>585000</span>
+  <Altitude>200</Altitude>
+  <ImageTimeSpan>-29000</ImageTimeSpan>
+  <ImageStartIndex>0</ImageStartIndex>
+  <voiceAjustedValue>1</voiceAjustedValue>
+  <PlayTime>0</PlayTime>
+</SaveXml>

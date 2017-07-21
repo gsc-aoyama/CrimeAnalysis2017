@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NmfDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Culture="en-US" Version="900">
+  <ChildItems>
+    <Note Id="2ab80951-7904-4ab5-9f2c-8cd91a5e0bfa" Name="1" UsePopup="false">
+      <Popup>
+        <PopupSizePosition>
+          <ApplySize>false</ApplySize>
+          <PopupSize>
+            <Width>340</Width>
+            <Height>160</Height>
+          </PopupSize>
+          <PopupPosition>Automatic</PopupPosition>
+        </PopupSizePosition>
+        <Content />
+      </Popup>
+      <Graphic HighlightOnMouseOver="false" Label="1">
+        <LabelVisibility>Visible</LabelVisibility>
+        <Symbol Size="25" BaseSymbolId="YellowPushpinMarker" SymbolType="Marker" />
+        <Point CoordinateSystem="4326" X="139.942285678" Y="35.894678396" />
+      </Graphic>
+    </Note>
+    <Note Id="a1b52496-e687-44b5-baf8-e80dd3814b6f" Name="2" UsePopup="false">
+      <Popup>
+        <PopupSizePosition>
+          <ApplySize>false</ApplySize>
+          <PopupSize>
+            <Width>340</Width>
+            <Height>160</Height>
+          </PopupSize>
+          <PopupPosition>Automatic</PopupPosition>
+        </PopupSizePosition>
+        <Content />
+      </Popup>
+      <Graphic HighlightOnMouseOver="false" Label="2">
+        <LabelVisibility>Visible</LabelVisibility>
+        <Symbol Size="25" BaseSymbolId="YellowPushpinMarker" SymbolType="Marker" />
+        <Point CoordinateSystem="4326" X="139.942285678" Y="35.894678396" />
+      </Graphic>
+    </Note>
+    <Note Id="e747ea41-18c0-4556-8129-0ecd7459b96f" Name="3" UsePopup="false">
+      <Popup>
+        <PopupSizePosition>
+          <ApplySize>false</ApplySize>
+          <PopupSize>
+            <Width>340</Width>
+            <Height>160</Height>
+          </PopupSize>
+          <PopupPosition>Automatic</PopupPosition>
+        </PopupSizePosition>
+        <Content>『聞き書きマップ』のサンプルデータを取りに来ています。近所の公園です。
+今、GPS受信機のスイッチを入れて、衛星を捕捉するまでしばらく待っているとことです。
+そろそろ捕捉できたようなので、これからスタートします。
+</Content>
+      </Popup>
+      <Graphic HighlightOnMouseOver="false" Label="3">
+        <LabelVisibility>Visible</LabelVisibility>
+        <Symbol Size="25" BaseSymbolId="YellowPushpinMarker" SymbolType="Marker" />
+        <Point CoordinateSystem="4326" X="139.942284329" Y="35.894678252" />
+      </Graphic>
+    </Note>
+    <Note Id="800b37d3-a777-4220-b8cb-4117ea2a691b" Name="4" UsePopup="false">
+      <Popup>
+        <PopupSizePosition>
+          <ApplySize>false</ApplySize>
+          <PopupSize>
+            <Width>340</Width>
+            <Height>160</Height>
+          </PopupSize>
+          <PopupPosition>Automatic</PopupPosition>
+        </PopupSizePosition>
+        <Content>公園のシンボルになっている彫刻です。</Content>
+      </Popup>
+      <Graphic HighlightOnMouseOver="false" Label="4">
+        <LabelVisibility>Visible</LabelVisibility>
+        <Symbol Size="25" BaseSymbolId="YellowPushpinMarker" SymbolType="Marker" />
+        <Point CoordinateSystem="4326" X="139.942309381" Y="35.894839237" />
+      </Graphic>
+    </Note>
+    <Note Id="24b42efe-99dd-4d79-915d-d60472cefdcb" Name="5" UsePopup="false">
+      <Popup>
+        <PopupSizePosition>
+          <ApplySize>false</ApplySize>
+          <PopupSize>
+            <Width>340</Width>
+            <Height>160</Height>
+          </PopupSize>
+          <PopupPosition>Automatic</PopupPosition>
+        </PopupSizePosition>
+        <Content>この公園には、あちこちにこんなかわいい彫刻があります。</Content>
+      </Popup>
+      <Graphic HighlightOnMouseOver="false" Label="5">
+        <LabelVisibility>Visible</LabelVisibility>
+        <Symbol Size="25" BaseSymbolId="YellowPushpinMarker" SymbolType="Marker" />
+        <Point CoordinateSystem="4326" X="139.942265262" Y="35.894885262" />
+      </Graphic>
+    </Note>
+    <Note Id="5b7c1a55-7a85-4ca8-bb7a-be4cafe70347" Name="6" UsePopup="false">
+      <Popup>
+        <PopupSizePosition>
+          <ApplySize>false</ApplySize>
+          <PopupSize>
+            <Width>340</Width>
+            <Height>160</Height>
+          </PopupSize>
+          <PopupPosition>Automatic</PopupPosition>
+        </PopupSizePosition>
+        <Content>公園の管理センターです。
+緑のギャラリーとか緑の相談所というのも兼ねています。</Content>
+      </Popup>
+      <Graphic HighlightOnMouseOver="false" Label="6">
+        <LabelVisibility>Visible</LabelVisibility>
+        <Symbol Size="25" BaseSymbolId="YellowPushpinMarker" SymbolType="Marker" />
+        <Point CoordinateSystem="4326" X="139.941100011" Y="35.894795563" />
+      </Graphic>
+    </Note>
+    <Note Id="f0f80fb1-e6c3-4b5b-97b2-2282ee664c6e" Name="7" UsePopup="false">
+      <Popup>
+        <PopupSizePosition>
+          <ApplySize>false</ApplySize>
+          <PopupSize>
+            <Width>340</Width>
+            <Height>160</Height>
+          </PopupSize>
+          <PopupPosition>Automatic</PopupPosition>
+        </PopupSizePosition>
+        <Content>西洋庭園です。
+今はバラが養生中ですが、５月にはとてもきれいなバラ園になります。</Content>
+      </Popup>
+      <Graphic HighlightOnMouseOver="false" Label="7">
+        <LabelVisibility>Visible</LabelVisibility>
+        <Symbol BaseSymbolId="YellowPushpinMarker" SymbolType="Marker" />
+        <Point CoordinateSystem="4326" X="139.940117427" Y="35.896047571" />
+      </Graphic>
+    </Note>
+    <Note Id="c70f7404-edc2-4821-99cc-f22af69581b7" Name="8" UsePopup="false">
+      <Popup>
+        <PopupSizePosition>
+          <ApplySize>false</ApplySize>
+          <PopupSize>
+            <Width>340</Width>
+            <Height>160</Height>
+          </PopupSize>
+          <PopupPosition>Automatic</PopupPosition>
+        </PopupSizePosition>
+        <Content>こちらは日本庭園です。奥に茶室などもあります。
+鴨たちがたくさん遊んでいます。</Content>
+      </Popup>
+      <Graphic HighlightOnMouseOver="false" Label="8">
+        <LabelVisibility>Visible</LabelVisibility>
+        <Symbol BaseSymbolId="YellowPushpinMarker" SymbolType="Marker" />
+        <Point CoordinateSystem="4326" X="139.939422855" Y="35.89634499" />
+      </Graphic>
+    </Note>
+    <Note Id="900cbcb1-ecf9-4ed4-a42a-2818c3808179" Name="9" UsePopup="false">
+      <Popup>
+        <PopupSizePosition>
+          <ApplySize>false</ApplySize>
+          <PopupSize>
+            <Width>340</Width>
+            <Height>160</Height>
+          </PopupSize>
+          <PopupPosition>Automatic</PopupPosition>
+        </PopupSizePosition>
+        <Content>まだ寒いですが、梅がこんなにきれいに咲いています。</Content>
+      </Popup>
+      <Graphic HighlightOnMouseOver="false" Label="9">
+        <LabelVisibility>Visible</LabelVisibility>
+        <Symbol BaseSymbolId="YellowPushpinMarker" SymbolType="Marker" />
+        <Point CoordinateSystem="4326" X="139.938976824" Y="35.896152806" />
+      </Graphic>
+    </Note>
+    <Note Id="2cac872f-7f1a-4f5f-99f8-f2361e5c849f" Name="10" UsePopup="false">
+      <Popup>
+        <PopupSizePosition>
+          <ApplySize>false</ApplySize>
+          <PopupSize>
+            <Width>340</Width>
+            <Height>160</Height>
+          </PopupSize>
+          <PopupPosition>Automatic</PopupPosition>
+        </PopupSizePosition>
+        <Content>サッカー場や多目的の陸上競技場など、スポーツ施設も充実しています。</Content>
+      </Popup>
+      <Graphic HighlightOnMouseOver="false" Label="10">
+        <LabelVisibility>Visible</LabelVisibility>
+        <Symbol BaseSymbolId="YellowPushpinMarker" SymbolType="Marker" />
+        <Point CoordinateSystem="4326" X="139.938523281" Y="35.896042438" />
+      </Graphic>
+    </Note>
+    <Note Id="0cf40eb9-f347-4747-ae91-e66d9961d1cc" Name="11" UsePopup="false">
+      <Popup>
+        <PopupSizePosition>
+          <ApplySize>false</ApplySize>
+          <PopupSize>
+            <Width>340</Width>
+            <Height>160</Height>
+          </PopupSize>
+          <PopupPosition>Automatic</PopupPosition>
+        </PopupSizePosition>
+        <Content>池の水面に早春の光が反射して、とてもきれいです。</Content>
+      </Popup>
+      <Graphic HighlightOnMouseOver="false" Label="11">
+        <LabelVisibility>Visible</LabelVisibility>
+        <Symbol BaseSymbolId="YellowPushpinMarker" SymbolType="Marker" />
+        <Point CoordinateSystem="4326" X="139.938687244" Y="35.895766899" />
+      </Graphic>
+    </Note>
+    <Note Id="570aac99-1ea2-4dd9-9b6a-e97df4c83cca" Name="12" UsePopup="false">
+      <Popup>
+        <PopupSizePosition>
+          <ApplySize>false</ApplySize>
+          <PopupSize>
+            <Width>340</Width>
+            <Height>160</Height>
+          </PopupSize>
+          <PopupPosition>Automatic</PopupPosition>
+        </PopupSizePosition>
+        <Content>池を渡る木の橋です。
+この向こうに「桜の広場」というのがあって、春になるといろいろな種類の桜で満開になります。</Content>
+      </Popup>
+      <Graphic HighlightOnMouseOver="false" Label="12">
+        <LabelVisibility>Visible</LabelVisibility>
+        <Symbol BaseSymbolId="YellowPushpinMarker" SymbolType="Marker" />
+        <Point CoordinateSystem="4326" X="139.938837916" Y="35.89479173" />
+      </Graphic>
+    </Note>
+    <Note Id="1fc8080d-a1f8-4860-8983-ee9f8e83b6ea" Name="13" UsePopup="false">
+      <Popup>
+        <PopupSizePosition>
+          <ApplySize>false</ApplySize>
+          <PopupSize>
+            <Width>340</Width>
+            <Height>160</Height>
+          </PopupSize>
+          <PopupPosition>Automatic</PopupPosition>
+        </PopupSizePosition>
+        <Content>池には大きな鯉がたくさんいます。</Content>
+      </Popup>
+      <Graphic HighlightOnMouseOver="false" Label="13">
+        <LabelVisibility>Visible</LabelVisibility>
+        <Symbol BaseSymbolId="YellowPushpinMarker" SymbolType="Marker" />
+        <Point CoordinateSystem="4326" X="139.938825779" Y="35.894600609" />
+      </Graphic>
+    </Note>
+    <Note Id="037dc2b0-d3cd-480d-a84e-ee0db257e3e5" Name="14" UsePopup="false">
+      <Popup>
+        <PopupSizePosition>
+          <ApplySize>false</ApplySize>
+          <PopupSize>
+            <Width>340</Width>
+            <Height>160</Height>
+          </PopupSize>
+          <PopupPosition>Automatic</PopupPosition>
+        </PopupSizePosition>
+        <Content>いろいろな遊具もありますが、なかにはちょっと壊れているのもあるようです。</Content>
+      </Popup>
+      <Graphic HighlightOnMouseOver="false" Label="14">
+        <LabelVisibility>Visible</LabelVisibility>
+        <Symbol BaseSymbolId="YellowPushpinMarker" SymbolType="Marker" />
+        <Point CoordinateSystem="4326" X="139.939010739" Y="35.894405312" />
+      </Graphic>
+    </Note>
+    <Note Id="285d348c-3b84-4391-907e-8e3a2992fb10" Name="15" UsePopup="false">
+      <Popup>
+        <PopupSizePosition>
+          <ApplySize>false</ApplySize>
+          <PopupSize>
+            <Width>340</Width>
+            <Height>160</Height>
+          </PopupSize>
+          <PopupPosition>Automatic</PopupPosition>
+        </PopupSizePosition>
+        <Content>こんな冒険のできる施設もあります。</Content>
+      </Popup>
+      <Graphic HighlightOnMouseOver="false" Label="15">
+        <LabelVisibility>Visible</LabelVisibility>
+        <Symbol BaseSymbolId="YellowPushpinMarker" SymbolType="Marker" />
+        <Point CoordinateSystem="4326" X="139.939726876" Y="35.894482549" />
+      </Graphic>
+    </Note>
+    <Note Id="eb1c0415-a985-4784-9bb3-e416f3c00284" Name="16" UsePopup="false">
+      <Popup>
+        <PopupSizePosition>
+          <ApplySize>false</ApplySize>
+          <PopupSize>
+            <Width>340</Width>
+            <Height>160</Height>
+          </PopupSize>
+          <PopupPosition>Automatic</PopupPosition>
+        </PopupSizePosition>
+        <Content>これは「冒険のトリデ」と言うんだそうです。</Content>
+      </Popup>
+      <Graphic HighlightOnMouseOver="false" Label="16">
+        <LabelVisibility>Visible</LabelVisibility>
+        <Symbol BaseSymbolId="YellowPushpinMarker" SymbolType="Marker" />
+        <Point CoordinateSystem="4326" X="139.940265953" Y="35.894449469" />
+      </Graphic>
+    </Note>
+    <Note Id="a57366bb-9f09-4a32-a560-5190197fdf81" Name="17" UsePopup="false">
+      <Popup>
+        <PopupSizePosition>
+          <ApplySize>false</ApplySize>
+          <PopupSize>
+            <Width>340</Width>
+            <Height>160</Height>
+          </PopupSize>
+          <PopupPosition>Automatic</PopupPosition>
+        </PopupSizePosition>
+        <Content>保護者の方に注意を呼びかける看板なども出ています。</Content>
+      </Popup>
+      <Graphic HighlightOnMouseOver="false" Label="17">
+        <LabelVisibility>Visible</LabelVisibility>
+        <Symbol BaseSymbolId="YellowPushpinMarker" SymbolType="Marker" />
+        <Point CoordinateSystem="4326" X="139.940715442" Y="35.894427981" />
+      </Graphic>
+    </Note>
+    <Note Id="7fbdd0d1-a89d-462c-9a90-5ff34896f8a1" Name="18" UsePopup="false">
+      <Popup>
+        <PopupSizePosition>
+          <ApplySize>false</ApplySize>
+          <PopupSize>
+            <Width>340</Width>
+            <Height>160</Height>
+          </PopupSize>
+          <PopupPosition>Automatic</PopupPosition>
+        </PopupSizePosition>
+        <Content>ちょうど今、植木の剪定作業などをしているようです。</Content>
+      </Popup>
+      <Graphic HighlightOnMouseOver="false" Label="18">
+        <LabelVisibility>Visible</LabelVisibility>
+        <Symbol BaseSymbolId="YellowPushpinMarker" SymbolType="Marker" />
+        <Point CoordinateSystem="4326" X="139.941064932" Y="35.894222345" />
+      </Graphic>
+    </Note>
+    <Note Id="3ed5bc8e-3c49-4195-8fa1-ff7e844d4613" Name="19" UsePopup="false">
+      <Popup>
+        <PopupSizePosition>
+          <ApplySize>false</ApplySize>
+          <PopupSize>
+            <Width>340</Width>
+            <Height>160</Height>
+          </PopupSize>
+          <PopupPosition>Automatic</PopupPosition>
+        </PopupSizePosition>
+        <Content>これはコミュニティ体育館です。
+ちょうど今改修の工事をやっているようです。</Content>
+      </Popup>
+      <Graphic HighlightOnMouseOver="false" Label="19">
+        <LabelVisibility>Visible</LabelVisibility>
+        <Symbol BaseSymbolId="YellowPushpinMarker" SymbolType="Marker" />
+        <Point CoordinateSystem="4326" X="139.941434253" Y="35.893661453" />
+      </Graphic>
+    </Note>
+    <Note Id="3593db89-4217-4ba4-a8f7-b42a7babb25a" Name="20" UsePopup="false">
+      <Popup>
+        <PopupSizePosition>
+          <ApplySize>false</ApplySize>
+          <PopupSize>
+            <Width>340</Width>
+            <Height>160</Height>
+          </PopupSize>
+          <PopupPosition>Automatic</PopupPosition>
+        </PopupSizePosition>
+        <Content>大きな駐車場があります。
+「とまれ、車が来ます。」という看板が出ています。</Content>
+      </Popup>
+      <Graphic HighlightOnMouseOver="false" Label="20">
+        <LabelVisibility>Visible</LabelVisibility>
+        <Symbol BaseSymbolId="YellowPushpinMarker" SymbolType="Marker" />
+        <Point CoordinateSystem="4326" X="139.941987611" Y="35.894427815" />
+      </Graphic>
+    </Note>
+    <Note Id="7bd3eed0-69f7-4d36-85ed-bfb90c9693f0" Name="21" UsePopup="false">
+      <Popup>
+        <PopupSizePosition>
+          <ApplySize>false</ApplySize>
+          <PopupSize>
+            <Width>340</Width>
+            <Height>160</Height>
+          </PopupSize>
+          <PopupPosition>Automatic</PopupPosition>
+        </PopupSizePosition>
+        <Content>公園の入り口に戻ってきました。
+こんなきれいな花が植えてあります。</Content>
+      </Popup>
+      <Graphic HighlightOnMouseOver="false" Label="21">
+        <LabelVisibility>Visible</LabelVisibility>
+        <Symbol Size="25" BaseSymbolId="YellowPushpinMarker" SymbolType="Marker" />
+        <Point CoordinateSystem="4326" X="139.942382774" Y="35.894563079" />
+      </Graphic>
+    </Note>
+    <Note Id="f4a6d7db-44f3-4a81-93ec-d640786db168" Name="22" UsePopup="false">
+      <Popup>
+        <PopupSizePosition>
+          <ApplySize>false</ApplySize>
+          <PopupSize>
+            <Width>340</Width>
+            <Height>160</Height>
+          </PopupSize>
+          <PopupPosition>Automatic</PopupPosition>
+        </PopupSizePosition>
+        <Content>それではこれで、サンプルデータを取るためのまちあるきを終わります。
+きれいな公園なので、近くにおいでになることがあったら、ぜひ一度遊びに来てください。</Content>
+      </Popup>
+      <Graphic HighlightOnMouseOver="false" Label="22">
+        <LabelVisibility>Visible</LabelVisibility>
+        <Symbol Size="25" BaseSymbolId="YellowPushpinMarker" SymbolType="Marker" />
+        <Point CoordinateSystem="4326" X="139.942402048" Y="35.894735554" />
+      </Graphic>
+    </Note>
+    <Note Id="b6134e75-0c4e-4492-94ac-d32dcc94e139" Name="&quot;ACTIVE LOG # 20160301&quot;">
+      <Graphic Label="&quot;ACTIVE LOG # 20160301&quot;">
+        <Symbol BaseSymbolId="RedSolidLine" SymbolType="Line" />
+        <Polyline CoordinateSystem="4326">
+          <Path>
+            <Point X="139.942285678" Y="35.894678396" /><Point X="139.942285678" Y="35.894678396" /><Point X="139.942285678" Y="35.894685697" /><Point X="139.942285678" Y="35.894685697" /><Point X="139.942285678" Y="35.894685697" /><Point X="139.9422772" Y="35.894682296" /><Point X="139.9422772" Y="35.894682296" /><Point X="139.9422772" Y="35.894682296" /><Point X="139.9422772" Y="35.894682296" /><Point X="139.9422772" Y="35.894682296" /><Point X="139.9422772" Y="35.894682296" /><Point X="139.9422772" Y="35.894682296" /><Point X="139.9422772" Y="35.894682296" /><Point X="139.9422772" Y="35.894682296" /><Point X="139.9422772" Y="35.894682296" /><Point X="139.9422772" Y="35.894682296" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894678252" /><Point X="139.942284329" Y="35.894685553" /><Point X="139.942284329" Y="35.894685553" /><Point X="139.942284329" Y="35.894692854" /><Point X="139.942285678" Y="35.8947076" /><Point X="139.94227855" Y="35.894718945" /><Point X="139.94227855" Y="35.894726246" /><Point X="139.942279899" Y="35.894740992" /><Point X="139.942272771" Y="35.894752337" /><Point X="139.942272771" Y="35.894759638" /><Point X="139.942274121" Y="35.894774384" /><Point X="139.942282598" Y="35.894785085" /><Point X="139.942291076" Y="35.894795787" /><Point X="139.942299554" Y="35.894806489" /><Point X="139.942292426" Y="35.894817834" /><Point X="139.942300903" Y="35.894821234" /><Point X="139.942309381" Y="35.894831936" /><Point X="139.942309381" Y="35.894839237" /><Point X="139.942302253" Y="35.894850582" /><Point X="139.942295125" Y="35.894861928" /><Point X="139.942287996" Y="35.894873273" /><Point X="139.942287996" Y="35.894873273" /><Point X="139.942289346" Y="35.894880718" /><Point X="139.942289346" Y="35.894880718" /><Point X="139.942289346" Y="35.894880718" /><Point X="139.942289346" Y="35.894880718" /><Point X="139.942289346" Y="35.894880718" /><Point X="139.942289346" Y="35.894880718" /><Point X="139.942289346" Y="35.894880718" /><Point X="139.942289346" Y="35.894880718" /><Point X="139.942289346" Y="35.894880718" /><Point X="139.942289346" Y="35.894880718" /><Point X="139.942289346" Y="35.894880718" /><Point X="139.942280868" Y="35.894884618" /><Point X="139.942280868" Y="35.894884618" /><Point X="139.942280868" Y="35.894884618" /><Point X="139.942272391" Y="35.894881218" /><Point X="139.942265262" Y="35.894885262" /><Point X="139.942265262" Y="35.894885262" /><Point X="139.942265262" Y="35.894885262" /><Point X="139.942256785" Y="35.894881861" /><Point X="139.942256785" Y="35.894881861" /><Point X="139.942256785" Y="35.894881861" /><Point X="139.942256785" Y="35.894881861" /><Point X="139.942256785" Y="35.894881861" /><Point X="139.942256785" Y="35.894881861" /><Point X="139.942256785" Y="35.894881861" /><Point X="139.942256785" Y="35.894881861" /><Point X="139.942256785" Y="35.894881861" /><Point X="139.942256785" Y="35.894881861" /><Point X="139.942256785" Y="35.89487456" /><Point X="139.942263913" Y="35.894870516" /><Point X="139.942255435" Y="35.894859815" /><Point X="139.942254086" Y="35.894845069" /><Point X="139.942254086" Y="35.894837768" /><Point X="139.942252736" Y="35.894823022" /><Point X="139.942244258" Y="35.89481232" /><Point X="139.942227303" Y="35.894798218" /><Point X="139.942218825" Y="35.894794818" /><Point X="139.94220187" Y="35.894780716" /><Point X="139.942186264" Y="35.894774058" /><Point X="139.94216218" Y="35.894771302" /><Point X="139.942153703" Y="35.894767901" /><Point X="139.942129619" Y="35.894757843" /><Point X="139.942121142" Y="35.894754443" /><Point X="139.942105536" Y="35.894747785" /><Point X="139.942081452" Y="35.894745029" /><Point X="139.942072974" Y="35.894734327" /><Point X="139.942048891" Y="35.89473157" /><Point X="139.942040413" Y="35.89472817" /><Point X="139.942024807" Y="35.894728813" /><Point X="139.942009201" Y="35.894729457" /><Point X="139.941985118" Y="35.894719399" /><Point X="139.941961034" Y="35.894709342" /><Point X="139.941952557" Y="35.89469864" /><Point X="139.941928473" Y="35.894695883" /><Point X="139.941912867" Y="35.894689226" /><Point X="139.941895912" Y="35.894682425" /><Point X="139.941871828" Y="35.894672367" /><Point X="139.941854873" Y="35.894658265" /><Point X="139.94183079" Y="35.894655508" /><Point X="139.941822312" Y="35.894644806" /><Point X="139.941798229" Y="35.89464205" /><Point X="139.941789751" Y="35.894631348" /><Point X="139.941774145" Y="35.894631992" /><Point X="139.94175719" Y="35.89461789" /><Point X="139.941741584" Y="35.894618533" /><Point X="139.941724629" Y="35.894604431" /><Point X="139.941709023" Y="35.894605075" /><Point X="139.941700545" Y="35.894594373" /><Point X="139.941684939" Y="35.894595017" /><Point X="139.941660856" Y="35.894584959" /><Point X="139.941652378" Y="35.894581559" /><Point X="139.941636772" Y="35.894582202" /><Point X="139.941612689" Y="35.894572144" /><Point X="139.941604211" Y="35.894568744" /><Point X="139.941588606" Y="35.894569388" /><Point X="139.941580128" Y="35.894558686" /><Point X="139.941556044" Y="35.894555929" /><Point X="139.941540439" Y="35.894549272" /><Point X="139.941524833" Y="35.894549915" /><Point X="139.941500749" Y="35.894547159" /><Point X="139.941485143" Y="35.894547802" /><Point X="139.941469538" Y="35.894548446" /><Point X="139.941453932" Y="35.89454909" /><Point X="139.941429848" Y="35.894553634" /><Point X="139.941414242" Y="35.894554277" /><Point X="139.941398637" Y="35.894554921" /><Point X="139.941375902" Y="35.894559609" /><Point X="139.941360297" Y="35.894560253" /><Point X="139.941344691" Y="35.894568197" /><Point X="139.941329085" Y="35.894568841" /><Point X="139.941306351" Y="35.89458083" /><Point X="139.941290745" Y="35.894581473" /><Point X="139.941275139" Y="35.894589418" /><Point X="139.941268011" Y="35.894593462" /><Point X="139.941260882" Y="35.894604808" /><Point X="139.941238148" Y="35.894616797" /><Point X="139.941222542" Y="35.89461744" /><Point X="139.941206936" Y="35.894625385" /><Point X="139.94119133" Y="35.894633329" /><Point X="139.941168596" Y="35.894638017" /><Point X="139.941161468" Y="35.894649363" /><Point X="139.941145862" Y="35.894657307" /><Point X="139.941130256" Y="35.894665252" /><Point X="139.941123128" Y="35.894676597" /><Point X="139.941115999" Y="35.894687942" /><Point X="139.941101743" Y="35.894703332" /><Point X="139.941101743" Y="35.894710633" /><Point X="139.941094614" Y="35.894721978" /><Point X="139.941087486" Y="35.894733323" /><Point X="139.941088835" Y="35.894748069" /><Point X="139.941081707" Y="35.894759414" /><Point X="139.941081707" Y="35.894766715" /><Point X="139.941083056" Y="35.894781461" /><Point X="139.941091533" Y="35.894792163" /><Point X="139.941091533" Y="35.894792163" /><Point X="139.941100011" Y="35.894795563" /><Point X="139.941100011" Y="35.894802864" /><Point X="139.941100011" Y="35.894802864" /><Point X="139.941100011" Y="35.894795563" /><Point X="139.941100011" Y="35.894795563" /><Point X="139.941100011" Y="35.894795563" /><Point X="139.941100011" Y="35.894795563" /><Point X="139.941100011" Y="35.894795563" /><Point X="139.941100011" Y="35.894795563" /><Point X="139.941100011" Y="35.894795563" /><Point X="139.941100011" Y="35.894795563" /><Point X="139.941100011" Y="35.894795563" /><Point X="139.941100011" Y="35.894795563" /><Point X="139.941100011" Y="35.894795563" /><Point X="139.941100011" Y="35.894795563" /><Point X="139.941100011" Y="35.894795563" /><Point X="139.941100011" Y="35.894795563" /><Point X="139.941100011" Y="35.894795563" /><Point X="139.941100011" Y="35.894795563" /><Point X="139.941100011" Y="35.894795563" /><Point X="139.94110136" Y="35.894803008" /><Point X="139.94110136" Y="35.894810309" /><Point X="139.941094232" Y="35.894814354" /><Point X="139.941111187" Y="35.894828456" /><Point X="139.941104058" Y="35.8948325" /><Point X="139.941112536" Y="35.894843202" /><Point X="139.941105408" Y="35.894854547" /><Point X="139.941106757" Y="35.894861992" /><Point X="139.9410925" Y="35.894877382" /><Point X="139.941085372" Y="35.894888727" /><Point X="139.941078243" Y="35.894907373" /><Point X="139.941071115" Y="35.894918718" /><Point X="139.94104838" Y="35.894930707" /><Point X="139.941032774" Y="35.894938652" /><Point X="139.941017169" Y="35.894939295" /><Point X="139.94101004" Y="35.894950641" /><Point X="139.940994434" Y="35.894958585" /><Point X="139.9409717" Y="35.894970574" /><Point X="139.940964571" Y="35.894981919" /><Point X="139.940948965" Y="35.894989864" /><Point X="139.940926231" Y="35.895001853" /><Point X="139.940910625" Y="35.895002496" /><Point X="139.940886542" Y="35.89500704" /><Point X="139.940870936" Y="35.895014985" /><Point X="139.940848201" Y="35.895019673" /><Point X="139.940832595" Y="35.895027617" /><Point X="139.940808512" Y="35.89502486" /><Point X="139.940785777" Y="35.895036849" /><Point X="139.940770171" Y="35.895044793" /><Point X="139.940746088" Y="35.895049337" /><Point X="139.940730482" Y="35.895049981" /><Point X="139.940714876" Y="35.895050624" /><Point X="139.94069927" Y="35.895058569" /><Point X="139.940683664" Y="35.895059213" /><Point X="139.940668058" Y="35.895067157" /><Point X="139.940652452" Y="35.895067801" /><Point X="139.940636846" Y="35.895075745" /><Point X="139.94062124" Y="35.895076389" /><Point X="139.940605634" Y="35.895077032" /><Point X="139.940590028" Y="35.895084977" /><Point X="139.940574422" Y="35.89508562" /><Point X="139.940558816" Y="35.895093565" /><Point X="139.940551687" Y="35.895097609" /><Point X="139.940536081" Y="35.895105554" /><Point X="139.940520475" Y="35.895106197" /><Point X="139.940504869" Y="35.895114142" /><Point X="139.940489263" Y="35.895114785" /><Point X="139.940473657" Y="35.89512273" /><Point X="139.9404594" Y="35.895138119" /><Point X="139.940445143" Y="35.895153509" /><Point X="139.940429537" Y="35.895161453" /><Point X="139.94041528" Y="35.895176843" /><Point X="139.940408152" Y="35.895188188" /><Point X="139.940393895" Y="35.895203577" /><Point X="139.940386766" Y="35.895214923" /><Point X="139.94037116" Y="35.895222867" /><Point X="139.940364032" Y="35.895234212" /><Point X="139.940356903" Y="35.895238257" /><Point X="139.940349775" Y="35.895249602" /><Point X="139.94032704" Y="35.89526159" /><Point X="139.940328389" Y="35.895276336" /><Point X="139.940321261" Y="35.895287682" /><Point X="139.940307004" Y="35.895310372" /><Point X="139.940299875" Y="35.895321717" /><Point X="139.940301224" Y="35.895336463" /><Point X="139.940294096" Y="35.895347808" /><Point X="139.940295445" Y="35.895362554" /><Point X="139.940288316" Y="35.8953812" /><Point X="139.940274059" Y="35.89539659" /><Point X="139.94026693" Y="35.895415236" /><Point X="139.94026693" Y="35.895422537" /><Point X="139.940259802" Y="35.895441183" /><Point X="139.940261151" Y="35.895455929" /><Point X="139.9402625" Y="35.895477976" /><Point X="139.940270977" Y="35.895488677" /><Point X="139.940280804" Y="35.895506824" /><Point X="139.940289281" Y="35.895517526" /><Point X="139.940282153" Y="35.895528871" /><Point X="139.940283502" Y="35.895543617" /><Point X="139.940284851" Y="35.895558363" /><Point X="139.9402862" Y="35.895573109" /><Point X="139.940296026" Y="35.895591256" /><Point X="139.940297375" Y="35.895606002" /><Point X="139.94031433" Y="35.895620104" /><Point X="139.940315679" Y="35.895642151" /><Point X="139.940324157" Y="35.895660153" /><Point X="139.940325506" Y="35.895674899" /><Point X="139.940333983" Y="35.895692902" /><Point X="139.940326855" Y="35.895704247" /><Point X="139.940328204" Y="35.895718993" /><Point X="139.940321075" Y="35.895737639" /><Point X="139.940322424" Y="35.895752385" /><Point X="139.940322424" Y="35.895759686" /><Point X="139.940315295" Y="35.895771031" /><Point X="139.940316644" Y="35.895785777" /><Point X="139.940316644" Y="35.895793078" /><Point X="139.940309516" Y="35.895804423" /><Point X="139.940302387" Y="35.895815769" /><Point X="139.940286781" Y="35.895823713" /><Point X="139.940279652" Y="35.895835058" /><Point X="139.940256918" Y="35.895847047" /><Point X="139.940249789" Y="35.895858392" /><Point X="139.940242661" Y="35.895869737" /><Point X="139.940227054" Y="35.895877682" /><Point X="139.940219926" Y="35.895889027" /><Point X="139.94020432" Y="35.895904272" /><Point X="139.940197191" Y="35.895915617" /><Point X="139.940181585" Y="35.895923562" /><Point X="139.940174456" Y="35.895927606" /><Point X="139.940167328" Y="35.895946252" /><Point X="139.940151721" Y="35.895954197" /><Point X="139.940144593" Y="35.895965542" /><Point X="139.940137464" Y="35.895969586" /><Point X="139.940121858" Y="35.895977531" /><Point X="139.940121858" Y="35.895984831" /><Point X="139.940114729" Y="35.895996177" /><Point X="139.940114729" Y="35.896003477" /><Point X="139.940116078" Y="35.896018223" /><Point X="139.940116078" Y="35.896025524" /><Point X="139.940117427" Y="35.89604027" /><Point X="139.940117427" Y="35.896047571" /><Point X="139.940125905" Y="35.896050972" /><Point X="139.940125905" Y="35.896050972" /><Point X="139.940125905" Y="35.896050972" /><Point X="139.940125905" Y="35.896050972" /><Point X="139.940125905" Y="35.896050972" /><Point X="139.940125905" Y="35.896050972" /><Point X="139.940125905" Y="35.896050972" /><Point X="139.940125905" Y="35.896050972" /><Point X="139.940125905" Y="35.896050972" /><Point X="139.940125905" Y="35.896050972" /><Point X="139.940125905" Y="35.896050972" /><Point X="139.940125905" Y="35.896050972" /><Point X="139.940125905" Y="35.896050972" /><Point X="139.940125905" Y="35.896050972" /><Point X="139.940125905" Y="35.896050972" /><Point X="139.940125905" Y="35.896050972" /><Point X="139.940117427" Y="35.89604027" /><Point X="139.940101821" Y="35.896040914" /><Point X="139.940101821" Y="35.896033613" /><Point X="139.940084866" Y="35.896026811" /><Point X="139.940060782" Y="35.896024054" /><Point X="139.940045176" Y="35.896017397" /><Point X="139.94002957" Y="35.896025341" /><Point X="139.940022441" Y="35.896029385" /><Point X="139.940013964" Y="35.896033285" /><Point X="139.940006835" Y="35.896044631" /><Point X="139.939991229" Y="35.896045274" /><Point X="139.939975623" Y="35.896053218" /><Point X="139.939968494" Y="35.896064564" /><Point X="139.939952888" Y="35.896065207" /><Point X="139.939937282" Y="35.896065851" /><Point X="139.939937282" Y="35.896065851" /><Point X="139.939921675" Y="35.896066494" /><Point X="139.939897592" Y="35.896063737" /><Point X="139.939881985" Y="35.89606438" /><Point X="139.939866379" Y="35.896065024" /><Point X="139.939850773" Y="35.896065667" /><Point X="139.939835167" Y="35.896066311" /><Point X="139.939819561" Y="35.896074255" /><Point X="139.939803954" Y="35.896074899" /><Point X="139.939788348" Y="35.896075542" /><Point X="139.939772742" Y="35.896076186" /><Point X="139.939748658" Y="35.896073428" /><Point X="139.939740181" Y="35.896070027" /><Point X="139.939724575" Y="35.896070671" /><Point X="139.939708968" Y="35.896071314" /><Point X="139.939686233" Y="35.896076002" /><Point X="139.939670627" Y="35.896076646" /><Point X="139.939646543" Y="35.896073888" /><Point X="139.939630937" Y="35.896081833" /><Point X="139.939623809" Y="35.896085877" /><Point X="139.939599725" Y="35.896083119" /><Point X="139.939584119" Y="35.896091064" /><Point X="139.939568512" Y="35.896091707" /><Point X="139.939554255" Y="35.896099796" /><Point X="139.939538649" Y="35.89610774" /><Point X="139.939523043" Y="35.896108384" /><Point X="139.939507436" Y="35.896116328" /><Point X="139.939484701" Y="35.896121016" /><Point X="139.939469095" Y="35.89612896" /><Point X="139.939453489" Y="35.896129603" /><Point X="139.939437883" Y="35.896130247" /><Point X="139.939430754" Y="35.896141592" /><Point X="139.939408019" Y="35.89614628" /><Point X="139.939392413" Y="35.896146923" /><Point X="139.939376807" Y="35.896154867" /><Point X="139.9393612" Y="35.896155511" /><Point X="139.939345594" Y="35.896156154" /><Point X="139.939329988" Y="35.896164099" /><Point X="139.939305904" Y="35.896161341" /><Point X="139.939290298" Y="35.896161984" /><Point X="139.939290298" Y="35.896169285" /><Point X="139.939283169" Y="35.89617333" /><Point X="139.939291647" Y="35.896184031" /><Point X="139.939300124" Y="35.896187432" /><Point X="139.939317079" Y="35.896201535" /><Point X="139.939334034" Y="35.896208337" /><Point X="139.939350989" Y="35.896222439" /><Point X="139.939367944" Y="35.896236542" /><Point X="139.939384899" Y="35.896250644" /><Point X="139.939384899" Y="35.896250644" /><Point X="139.939393376" Y="35.896261346" /><Point X="139.939401854" Y="35.896272048" /><Point X="139.939403203" Y="35.896286794" /><Point X="139.939403203" Y="35.896294095" /><Point X="139.939404551" Y="35.896308841" /><Point X="139.939404551" Y="35.896316142" /><Point X="139.9394059" Y="35.896330888" /><Point X="139.939414378" Y="35.896341589" /><Point X="139.939422855" Y="35.89634499" /><Point X="139.939431333" Y="35.896355692" /><Point X="139.939424204" Y="35.896367037" /><Point X="139.939432681" Y="35.896377739" /><Point X="139.93943981" Y="35.896373694" /><Point X="139.93943981" Y="35.896373694" /><Point X="139.93943981" Y="35.896373694" /><Point X="139.93943981" Y="35.896373694" /><Point X="139.93943981" Y="35.896373694" /><Point X="139.93943981" Y="35.896373694" /><Point X="139.93943981" Y="35.896373694" /><Point X="139.93943981" Y="35.896373694" /><Point X="139.93943981" Y="35.896373694" /><Point X="139.93943981" Y="35.896373694" /><Point X="139.939441159" Y="35.896388441" /><Point X="139.93943981" Y="35.896380995" /><Point X="139.93943981" Y="35.896380995" /><Point X="139.939438461" Y="35.89637355" /><Point X="139.939438461" Y="35.896366249" /><Point X="139.939429984" Y="35.896362848" /><Point X="139.939421506" Y="35.896352147" /><Point X="139.939428635" Y="35.896348102" /><Point X="139.939420158" Y="35.896337401" /><Point X="139.939404551" Y="35.896330743" /><Point X="139.939396074" Y="35.896320042" /><Point X="139.939387596" Y="35.896302039" /><Point X="139.939386248" Y="35.896287293" /><Point X="139.93937777" Y="35.896276591" /><Point X="139.939369293" Y="35.89626589" /><Point X="139.939360815" Y="35.896255188" /><Point X="139.939352338" Y="35.896244486" /><Point X="139.939328254" Y="35.896241729" /><Point X="139.939319776" Y="35.896231027" /><Point X="139.93930417" Y="35.89623167" /><Point X="139.939280087" Y="35.896221612" /><Point X="139.93926448" Y="35.896222255" /><Point X="139.939256003" Y="35.896218855" /><Point X="139.939240397" Y="35.896212197" /><Point X="139.939216313" Y="35.89620944" /><Point X="139.939207835" Y="35.896206039" /><Point X="139.939192229" Y="35.896206682" /><Point X="139.939176623" Y="35.896207326" /><Point X="139.939152539" Y="35.896197267" /><Point X="139.939136933" Y="35.896197911" /><Point X="139.939119978" Y="35.896183808" /><Point X="139.939104372" Y="35.896184451" /><Point X="139.939088765" Y="35.896177794" /><Point X="139.939080288" Y="35.896174393" /><Point X="139.939056204" Y="35.896171636" /><Point X="139.939047727" Y="35.896160934" /><Point X="139.939040598" Y="35.896164978" /><Point X="139.939040598" Y="35.896164978" /><Point X="139.939040598" Y="35.896164978" /><Point X="139.939040598" Y="35.896164978" /><Point X="139.939040598" Y="35.896164978" /><Point X="139.939032121" Y="35.896161577" /><Point X="139.939016514" Y="35.896162221" /><Point X="139.939008037" Y="35.89615882" /><Point X="139.938992431" Y="35.896152162" /><Point X="139.938983953" Y="35.896148761" /><Point X="139.938976824" Y="35.896152806" /><Point X="139.938968347" Y="35.896142104" /><Point X="139.938976824" Y="35.896145505" /><Point X="139.938976824" Y="35.896145505" /><Point X="139.938976824" Y="35.896145505" /><Point X="139.938976824" Y="35.896145505" /><Point X="139.938976824" Y="35.896145505" /><Point X="139.938976824" Y="35.896145505" /><Point X="139.938976824" Y="35.896145505" /><Point X="139.938976824" Y="35.896145505" /><Point X="139.938976824" Y="35.896145505" /><Point X="139.938976824" Y="35.896145505" /><Point X="139.938976824" Y="35.896145505" /><Point X="139.938976824" Y="35.896145505" /><Point X="139.938976824" Y="35.896145505" /><Point X="139.938976824" Y="35.896145505" /><Point X="139.938985302" Y="35.896148906" /><Point X="139.938985302" Y="35.896141605" /><Point X="139.939002257" Y="35.896155708" /><Point X="139.939017863" Y="35.896155064" /><Point X="139.93902634" Y="35.896165766" /><Point X="139.939041947" Y="35.896165123" /><Point X="139.939058902" Y="35.896171924" /><Point X="139.939067379" Y="35.896182626" /><Point X="139.939075857" Y="35.896193328" /><Point X="139.939084334" Y="35.89620403" /><Point X="139.939084334" Y="35.89620403" /><Point X="139.939085683" Y="35.896218776" /><Point X="139.939078554" Y="35.896230121" /><Point X="139.939062948" Y="35.896238065" /><Point X="139.939047341" Y="35.896238708" /><Point X="139.939038864" Y="35.896235307" /><Point X="139.93901478" Y="35.89623255" /><Point X="139.939006303" Y="35.896229149" /><Point X="139.938990696" Y="35.896222492" /><Point X="139.938973742" Y="35.89621569" /><Point X="139.938958135" Y="35.896216333" /><Point X="139.938949658" Y="35.896205631" /><Point X="139.938934052" Y="35.896206275" /><Point X="139.938917097" Y="35.896192172" /><Point X="139.93890149" Y="35.896185515" /><Point X="139.938893013" Y="35.896182114" /><Point X="139.938868929" Y="35.896172055" /><Point X="139.938844846" Y="35.896169298" /><Point X="139.938836368" Y="35.896158596" /><Point X="139.938820762" Y="35.896151939" /><Point X="139.938805156" Y="35.896152582" /><Point X="139.938788201" Y="35.896138479" /><Point X="139.938772595" Y="35.896139123" /><Point X="139.938756988" Y="35.896132465" /><Point X="139.938741382" Y="35.896125808" /><Point X="139.938724427" Y="35.896119006" /><Point X="139.938708821" Y="35.896112348" /><Point X="139.938693215" Y="35.896112992" /><Point X="139.938684738" Y="35.89610229" /><Point X="139.938660654" Y="35.896099532" /><Point X="139.938645048" Y="35.896092875" /><Point X="139.93863657" Y="35.896082173" /><Point X="139.938620964" Y="35.896082816" /><Point X="139.938612487" Y="35.896079415" /><Point X="139.93859688" Y="35.896072758" /><Point X="139.938588403" Y="35.896069357" /><Point X="139.938579926" Y="35.896058655" /><Point X="139.938564319" Y="35.896059298" /><Point X="139.938555842" Y="35.896055898" /><Point X="139.938547365" Y="35.896045196" /><Point X="139.938531758" Y="35.896045839" /><Point X="139.938523281" Y="35.896042438" /><Point X="139.938523281" Y="35.896042438" /><Point X="139.938523281" Y="35.896042438" /><Point X="139.938523281" Y="35.896042438" /><Point X="139.938523281" Y="35.896042438" /><Point X="139.938523281" Y="35.896042438" /><Point X="139.938523281" Y="35.896042438" /><Point X="139.938523281" Y="35.896042438" /><Point X="139.938523281" Y="35.896042438" /><Point X="139.938523281" Y="35.896042438" /><Point X="139.938523281" Y="35.896042438" /><Point X="139.938523281" Y="35.896042438" /><Point X="139.938523281" Y="35.896042438" /><Point X="139.938523281" Y="35.896042438" /><Point X="139.938523281" Y="35.896042438" /><Point X="139.938523281" Y="35.896042438" /><Point X="139.938523281" Y="35.896042438" /><Point X="139.938523281" Y="35.896042438" /><Point X="139.938531758" Y="35.896045839" /><Point X="139.938538887" Y="35.896041795" /><Point X="139.938554493" Y="35.896041152" /><Point X="139.9385701" Y="35.896040508" /><Point X="139.938577229" Y="35.896029163" /><Point X="139.938591486" Y="35.896013774" /><Point X="139.938598615" Y="35.896002429" /><Point X="139.938614221" Y="35.895994484" /><Point X="139.938629828" Y="35.89598654" /><Point X="139.938636956" Y="35.895975195" /><Point X="139.938644085" Y="35.89596385" /><Point X="139.938651214" Y="35.895952505" /><Point X="139.938658343" Y="35.89594116" /><Point X="139.938665472" Y="35.895922514" /><Point X="139.938672601" Y="35.895911169" /><Point X="139.938679729" Y="35.895899824" /><Point X="139.938686858" Y="35.895888479" /><Point X="139.938693987" Y="35.895877133" /><Point X="139.938692639" Y="35.895862387" /><Point X="139.938699767" Y="35.895843741" /><Point X="139.938706896" Y="35.895839697" /><Point X="139.938714025" Y="35.895828352" /><Point X="139.938705548" Y="35.895810349" /><Point X="139.938712677" Y="35.895799004" /><Point X="139.938704199" Y="35.895788303" /><Point X="139.938695722" Y="35.895784902" /><Point X="139.938687244" Y="35.8957742" /><Point X="139.938687244" Y="35.895766899" /><Point X="139.938687244" Y="35.8957742" /><Point X="139.938687244" Y="35.8957742" /><Point X="139.938687244" Y="35.8957742" /><Point X="139.938687244" Y="35.895766899" /><Point X="139.938687244" Y="35.895766899" /><Point X="139.938687244" Y="35.895766899" /><Point X="139.938687244" Y="35.895766899" /><Point X="139.938687244" Y="35.895766899" /><Point X="139.938687244" Y="35.895766899" /><Point X="139.938687244" Y="35.895766899" /><Point X="139.938687244" Y="35.895766899" /><Point X="139.938687244" Y="35.895766899" /><Point X="139.938687244" Y="35.895766899" /><Point X="139.938687244" Y="35.895766899" /><Point X="139.938687244" Y="35.895766899" /><Point X="139.938687244" Y="35.895766899" /><Point X="139.938687244" Y="35.895766899" /><Point X="139.938678767" Y="35.895763498" /><Point X="139.938693025" Y="35.89575541" /><Point X="139.938700154" Y="35.895744065" /><Point X="139.93871576" Y="35.895743421" /><Point X="139.938730017" Y="35.895728032" /><Point X="139.938745624" Y="35.895720088" /><Point X="139.938759881" Y="35.895704698" /><Point X="139.938758533" Y="35.895689952" /><Point X="139.93877279" Y="35.895674563" /><Point X="139.938779919" Y="35.895663218" /><Point X="139.938787048" Y="35.895651873" /><Point X="139.938785699" Y="35.895637127" /><Point X="139.938799957" Y="35.895621737" /><Point X="139.938807086" Y="35.895610392" /><Point X="139.938814214" Y="35.895599047" /><Point X="139.938828472" Y="35.895576357" /><Point X="139.938835601" Y="35.895565012" /><Point X="139.938842729" Y="35.895553667" /><Point X="139.938849858" Y="35.895542322" /><Point X="139.938849858" Y="35.89552772" /><Point X="139.938856987" Y="35.895516375" /><Point X="139.938862767" Y="35.895497585" /><Point X="139.938869896" Y="35.895478939" /><Point X="139.938877025" Y="35.895467594" /><Point X="139.938884153" Y="35.895456248" /><Point X="139.938891282" Y="35.895444903" /><Point X="139.938898411" Y="35.895433558" /><Point X="139.938898411" Y="35.895418956" /><Point X="139.93890554" Y="35.895407611" /><Point X="139.938919797" Y="35.895392222" /><Point X="139.938926926" Y="35.895380877" /><Point X="139.938934055" Y="35.895362231" /><Point X="139.938941183" Y="35.895350886" /><Point X="139.938948312" Y="35.895339541" /><Point X="139.938955441" Y="35.895328195" /><Point X="139.93896257" Y="35.895309549" /><Point X="139.938969698" Y="35.895298204" /><Point X="139.938976827" Y="35.895286859" /><Point X="139.938983956" Y="35.895275514" /><Point X="139.938991085" Y="35.895256868" /><Point X="139.938998213" Y="35.895245523" /><Point X="139.939005342" Y="35.895234178" /><Point X="139.939012471" Y="35.895222833" /><Point X="139.939011122" Y="35.895200786" /><Point X="139.939011122" Y="35.895193485" /><Point X="139.939009774" Y="35.895178739" /><Point X="139.939016902" Y="35.895160093" /><Point X="139.939015554" Y="35.895145347" /><Point X="139.939007076" Y="35.895134645" /><Point X="139.938998599" Y="35.895116643" /><Point X="139.939005728" Y="35.895105297" /><Point X="139.93899725" Y="35.895087295" /><Point X="139.938988773" Y="35.895076593" /><Point X="139.938980296" Y="35.895065891" /><Point X="139.938978947" Y="35.895051145" /><Point X="139.93897047" Y="35.895033143" /><Point X="139.938961993" Y="35.895022441" /><Point X="139.938953515" Y="35.895011739" /><Point X="139.938945038" Y="35.895001037" /><Point X="139.938943689" Y="35.894986291" /><Point X="139.938935212" Y="35.894968289" /><Point X="139.938926735" Y="35.894957587" /><Point X="139.938918257" Y="35.894946885" /><Point X="139.93890978" Y="35.894936183" /><Point X="139.93890978" Y="35.894921581" /><Point X="139.938908432" Y="35.894914136" /><Point X="139.938899954" Y="35.894896134" /><Point X="139.938891477" Y="35.894885432" /><Point X="139.938890128" Y="35.894870686" /><Point X="139.938873174" Y="35.894856584" /><Point X="139.938864696" Y="35.894845882" /><Point X="139.938856219" Y="35.89483518" /><Point X="139.938863348" Y="35.894823835" /><Point X="139.938854871" Y="35.894805832" /><Point X="139.938846393" Y="35.89479513" /><Point X="139.938837916" Y="35.89479173" /><Point X="139.938837916" Y="35.89479173" /><Point X="139.938837916" Y="35.89479173" /><Point X="139.938837916" Y="35.89479173" /><Point X="139.938837916" Y="35.89479173" /><Point X="139.938837916" Y="35.89479173" /><Point X="139.938837916" Y="35.89479173" /><Point X="139.938846393" Y="35.89479513" /><Point X="139.938846393" Y="35.894802431" /><Point X="139.938846393" Y="35.894802431" /><Point X="139.938846393" Y="35.894802431" /><Point X="139.938846393" Y="35.894802431" /><Point X="139.938846393" Y="35.894802431" /><Point X="139.938846393" Y="35.894802431" /><Point X="139.938846393" Y="35.89479513" /><Point X="139.938846393" Y="35.89479513" /><Point X="139.938846393" Y="35.89479513" /><Point X="139.938846393" Y="35.89479513" /><Point X="139.938837916" Y="35.89479173" /><Point X="139.938829439" Y="35.894781028" /><Point X="139.938829439" Y="35.894773727" /><Point X="139.938820962" Y="35.894763025" /><Point X="139.938812484" Y="35.894752323" /><Point X="139.938804007" Y="35.894734321" /><Point X="139.938802658" Y="35.894719575" /><Point X="139.938794181" Y="35.894708873" /><Point X="139.93880131" Y="35.894697528" /><Point X="139.938792833" Y="35.894686826" /><Point X="139.938799961" Y="35.894675481" /><Point X="139.93880709" Y="35.894664136" /><Point X="139.938805742" Y="35.894642089" /><Point X="139.938805742" Y="35.894634788" /><Point X="139.938804393" Y="35.894620042" /><Point X="139.938804393" Y="35.894612741" /><Point X="139.938795916" Y="35.89460934" /><Point X="139.938788787" Y="35.894613384" /><Point X="139.938788787" Y="35.894613384" /><Point X="139.938788787" Y="35.894606083" /><Point X="139.938795916" Y="35.894602039" /><Point X="139.938811522" Y="35.894601396" /><Point X="139.938811522" Y="35.894601396" /><Point X="139.93881865" Y="35.894597352" /><Point X="139.93881865" Y="35.894597352" /><Point X="139.93881865" Y="35.894597352" /><Point X="139.93881865" Y="35.894604653" /><Point X="139.938825779" Y="35.894600609" /><Point X="139.938825779" Y="35.89460791" /><Point X="139.938825779" Y="35.894615211" /><Point X="139.93881865" Y="35.894626556" /><Point X="139.93881865" Y="35.894626556" /><Point X="139.93881865" Y="35.894626556" /><Point X="139.93881865" Y="35.894626556" /><Point X="139.938810173" Y="35.894623155" /><Point X="139.93881865" Y="35.894626556" /><Point X="139.93881865" Y="35.894626556" /><Point X="139.93881865" Y="35.894626556" /><Point X="139.93881865" Y="35.894626556" /><Point X="139.93881865" Y="35.894626556" /><Point X="139.93881865" Y="35.894626556" /><Point X="139.93881865" Y="35.894626556" /><Point X="139.938810173" Y="35.894623155" /><Point X="139.938810173" Y="35.894623155" /><Point X="139.938810173" Y="35.894623155" /><Point X="139.938810173" Y="35.894623155" /><Point X="139.938801696" Y="35.894612453" /><Point X="139.938801696" Y="35.894605152" /><Point X="139.938800347" Y="35.894590406" /><Point X="139.938793219" Y="35.894587149" /><Point X="139.938784741" Y="35.894576448" /><Point X="139.938776264" Y="35.894565746" /><Point X="139.938774916" Y="35.894551" /><Point X="139.938774916" Y="35.894543699" /><Point X="139.938766438" Y="35.894532997" /><Point X="139.938757961" Y="35.894522295" /><Point X="139.938749484" Y="35.894511594" /><Point X="139.938748135" Y="35.894489547" /><Point X="139.938748135" Y="35.894482246" /><Point X="139.938746787" Y="35.8944675" /><Point X="139.938753916" Y="35.894456155" /><Point X="139.938753916" Y="35.894448854" /><Point X="139.938769521" Y="35.89444821" /><Point X="139.938769521" Y="35.89444821" /><Point X="139.938785127" Y="35.894447567" /><Point X="139.938793605" Y="35.894450968" /><Point X="139.938800733" Y="35.894446924" /><Point X="139.938816339" Y="35.894438979" /><Point X="139.938840422" Y="35.894441737" /><Point X="139.938856028" Y="35.894441093" /><Point X="139.938880111" Y="35.894443851" /><Point X="139.938895717" Y="35.894435907" /><Point X="139.938911323" Y="35.894435263" /><Point X="139.938934058" Y="35.894430576" /><Point X="139.93896527" Y="35.894421988" /><Point X="139.938972398" Y="35.894417944" /><Point X="139.938995133" Y="35.894405955" /><Point X="139.939010739" Y="35.894405312" /><Point X="139.939033473" Y="35.894400625" /><Point X="139.939056208" Y="35.894388636" /><Point X="139.939078942" Y="35.894383949" /><Point X="139.9390932" Y="35.89437586" /><Point X="139.939108806" Y="35.894367916" /><Point X="139.939115934" Y="35.894363872" /><Point X="139.939123063" Y="35.894359828" /><Point X="139.939115934" Y="35.894363872" /><Point X="139.939123063" Y="35.894359828" /><Point X="139.939123063" Y="35.894359828" /><Point X="139.939123063" Y="35.894359828" /><Point X="139.939123063" Y="35.894359828" /><Point X="139.939123063" Y="35.894359828" /><Point X="139.939123063" Y="35.894359828" /><Point X="139.939123063" Y="35.894359828" /><Point X="139.939123063" Y="35.894359828" /><Point X="139.939123063" Y="35.894359828" /><Point X="139.939138669" Y="35.894351883" /><Point X="139.939161403" Y="35.894347196" /><Point X="139.939177009" Y="35.894346553" /><Point X="139.939199744" Y="35.894334564" /><Point X="139.939215349" Y="35.894333921" /><Point X="139.939238084" Y="35.894321932" /><Point X="139.93925369" Y="35.894321289" /><Point X="139.939267947" Y="35.8943132" /><Point X="139.939290681" Y="35.894301212" /><Point X="139.939313416" Y="35.894296524" /><Point X="139.939329022" Y="35.894295881" /><Point X="139.939344628" Y="35.894295238" /><Point X="139.939360233" Y="35.894294594" /><Point X="139.939384317" Y="35.894297352" /><Point X="139.939399922" Y="35.894296708" /><Point X="139.939415528" Y="35.894296065" /><Point X="139.939424006" Y="35.894299465" /><Point X="139.939448089" Y="35.894302223" /><Point X="139.939463695" Y="35.89430888" /><Point X="139.9394793" Y="35.894308237" /><Point X="139.939496255" Y="35.894315038" /><Point X="139.939511861" Y="35.894314395" /><Point X="139.939527467" Y="35.894313752" /><Point X="139.939535944" Y="35.894324453" /><Point X="139.93955155" Y="35.89432381" /><Point X="139.939567156" Y="35.894330467" /><Point X="139.939575633" Y="35.894341169" /><Point X="139.939591239" Y="35.894340526" /><Point X="139.939599716" Y="35.894351227" /><Point X="139.939615322" Y="35.894350584" /><Point X="139.939623799" Y="35.894361286" /><Point X="139.939632277" Y="35.894371987" /><Point X="139.939640754" Y="35.894382689" /><Point X="139.939657709" Y="35.894389491" /><Point X="139.939666186" Y="35.894400192" /><Point X="139.939674663" Y="35.894410894" /><Point X="139.939683141" Y="35.894421596" /><Point X="139.939700095" Y="35.894428397" /><Point X="139.939708573" Y="35.894439099" /><Point X="139.93971705" Y="35.8944498" /><Point X="139.93971705" Y="35.894457101" /><Point X="139.939725527" Y="35.894467803" /><Point X="139.939726876" Y="35.894482549" /><Point X="139.939735354" Y="35.894493251" /><Point X="139.939750959" Y="35.894499908" /><Point X="139.939750959" Y="35.894499908" /><Point X="139.939750959" Y="35.894492607" /><Point X="139.939750959" Y="35.894492607" /><Point X="139.939750959" Y="35.894492607" /><Point X="139.939750959" Y="35.894492607" /><Point X="139.939742482" Y="35.894489207" /><Point X="139.939750959" Y="35.894492607" /><Point X="139.939750959" Y="35.894499908" /><Point X="139.939752308" Y="35.894514654" /><Point X="139.939760786" Y="35.894525356" /><Point X="139.939762134" Y="35.894547403" /><Point X="139.939763483" Y="35.894562149" /><Point X="139.939764832" Y="35.894576894" /><Point X="139.939773309" Y="35.894594897" /><Point X="139.939774658" Y="35.894616944" /><Point X="139.939790264" Y="35.894623602" /><Point X="139.939798741" Y="35.894627002" /><Point X="139.939814347" Y="35.894626359" /><Point X="139.939829953" Y="35.894618414" /><Point X="139.93984421" Y="35.894603025" /><Point X="139.939859816" Y="35.894595081" /><Point X="139.939866945" Y="35.894583735" /><Point X="139.939874073" Y="35.89457239" /><Point X="139.939896808" Y="35.894560402" /><Point X="139.939903936" Y="35.894556357" /><Point X="139.939919542" Y="35.894548413" /><Point X="139.939935148" Y="35.894540468" /><Point X="139.939949405" Y="35.89453238" /><Point X="139.939965011" Y="35.894524436" /><Point X="139.939980617" Y="35.894516491" /><Point X="139.939996223" Y="35.894515848" /><Point X="139.940011829" Y="35.894507903" /><Point X="139.940034563" Y="35.894503216" /><Point X="139.940041692" Y="35.894499171" /><Point X="139.940057298" Y="35.894491227" /><Point X="139.940080032" Y="35.894486539" /><Point X="139.940095638" Y="35.894478595" /><Point X="139.940111244" Y="35.894477951" /><Point X="139.940133978" Y="35.894473263" /><Point X="139.940149584" Y="35.894465319" /><Point X="139.940172318" Y="35.894460631" /><Point X="139.940187924" Y="35.894459988" /><Point X="139.94020353" Y="35.894459344" /><Point X="139.940219136" Y="35.894458701" /><Point X="139.940234742" Y="35.894450756" /><Point X="139.940250348" Y="35.894450113" /><Point X="139.940258825" Y="35.894453513" /><Point X="139.940265953" Y="35.894449469" /><Point X="139.940258825" Y="35.894453513" /><Point X="139.940267302" Y="35.894456914" /><Point X="139.940267302" Y="35.894456914" /><Point X="139.940267302" Y="35.894456914" /><Point X="139.940267302" Y="35.894456914" /><Point X="139.940267302" Y="35.894456914" /><Point X="139.940267302" Y="35.894456914" /><Point X="139.940267302" Y="35.894456914" /><Point X="139.940260174" Y="35.894460958" /><Point X="139.940260174" Y="35.894460958" /><Point X="139.940260174" Y="35.894460958" /><Point X="139.940253045" Y="35.894465003" /><Point X="139.940253045" Y="35.894465003" /><Point X="139.94027" Y="35.894464503" /><Point X="139.940278478" Y="35.894475205" /><Point X="139.940294084" Y="35.89446726" /><Point X="139.940302561" Y="35.894470661" /><Point X="139.940326644" Y="35.894473418" /><Point X="139.940349379" Y="35.894461429" /><Point X="139.940364984" Y="35.894460786" /><Point X="139.94038059" Y="35.894460142" /><Point X="139.940396196" Y="35.894459499" /><Point X="139.940411802" Y="35.894458855" /><Point X="139.940435885" Y="35.894461612" /><Point X="139.940444363" Y="35.894465013" /><Point X="139.940475575" Y="35.894463726" /><Point X="139.94049118" Y="35.894463082" /><Point X="139.940506786" Y="35.894462439" /><Point X="139.940522392" Y="35.894461795" /><Point X="139.940537998" Y="35.894461151" /><Point X="139.940562081" Y="35.894463909" /><Point X="139.94056921" Y="35.894459864" /><Point X="139.940591944" Y="35.894455177" /><Point X="139.94060755" Y="35.894454533" /><Point X="139.940623156" Y="35.894446588" /><Point X="139.94064589" Y="35.894441901" /><Point X="139.940661496" Y="35.894441257" /><Point X="139.940677102" Y="35.894440613" /><Point X="139.940699836" Y="35.894428625" /><Point X="139.940715442" Y="35.894427981" /><Point X="139.94072257" Y="35.894423937" /><Point X="139.94072257" Y="35.894416636" /><Point X="139.94072257" Y="35.894416636" /><Point X="139.94072257" Y="35.894416636" /><Point X="139.94072257" Y="35.894416636" /><Point X="139.94072257" Y="35.894416636" /><Point X="139.94072257" Y="35.894416636" /><Point X="139.940731048" Y="35.894427338" /><Point X="139.940748003" Y="35.894426838" /><Point X="139.940763609" Y="35.894426194" /><Point X="139.940770737" Y="35.89442215" /><Point X="139.940786343" Y="35.894421506" /><Point X="139.940809077" Y="35.894409518" /><Point X="139.940824683" Y="35.894408874" /><Point X="139.940840289" Y="35.894400929" /><Point X="139.940855895" Y="35.894392985" /><Point X="139.940878629" Y="35.894388297" /><Point X="139.940894235" Y="35.894380352" /><Point X="139.940909841" Y="35.894379709" /><Point X="139.940925447" Y="35.894371764" /><Point X="139.940941052" Y="35.894371121" /><Point X="139.940955309" Y="35.894355731" /><Point X="139.940970915" Y="35.894347787" /><Point X="139.940978043" Y="35.894336441" /><Point X="139.941000777" Y="35.894324452" /><Point X="139.941007906" Y="35.894313107" /><Point X="139.941023512" Y="35.894312464" /><Point X="139.94103064" Y="35.894301118" /><Point X="139.941037768" Y="35.894282472" /><Point X="139.941036419" Y="35.894267726" /><Point X="139.941043547" Y="35.894256381" /><Point X="139.941050676" Y="35.894245036" /><Point X="139.941049327" Y="35.89423029" /><Point X="139.941056455" Y="35.894211644" /><Point X="139.941056455" Y="35.894204343" /><Point X="139.941056455" Y="35.894204343" /><Point X="139.941056455" Y="35.894211644" /><Point X="139.941064932" Y="35.894215044" /><Point X="139.941064932" Y="35.894222345" /><Point X="139.941064932" Y="35.894222345" /><Point X="139.941064932" Y="35.894222345" /><Point X="139.941064932" Y="35.894222345" /><Point X="139.941064932" Y="35.894222345" /><Point X="139.941064932" Y="35.894222345" /><Point X="139.941064932" Y="35.894222345" /><Point X="139.941064932" Y="35.894222345" /><Point X="139.941057804" Y="35.89422639" /><Point X="139.941049327" Y="35.894208387" /><Point X="139.941056455" Y="35.894197042" /><Point X="139.941047978" Y="35.89418634" /><Point X="139.941046628" Y="35.894171594" /><Point X="139.941038151" Y="35.894153592" /><Point X="139.941036802" Y="35.894138846" /><Point X="139.941028324" Y="35.894128144" /><Point X="139.941019847" Y="35.894117442" /><Point X="139.941002892" Y="35.89410334" /><Point X="139.940994414" Y="35.894092639" /><Point X="139.940978809" Y="35.894093282" /><Point X="139.940970331" Y="35.894082581" /><Point X="139.940961854" Y="35.894071879" /><Point X="139.940946248" Y="35.894065222" /><Point X="139.940929293" Y="35.894051119" /><Point X="139.940936421" Y="35.894039774" /><Point X="139.940927944" Y="35.894029072" /><Point X="139.940926595" Y="35.894014327" /><Point X="139.940925246" Y="35.893999581" /><Point X="139.940932374" Y="35.893995537" /><Point X="139.940946631" Y="35.893980147" /><Point X="139.940962236" Y="35.893972203" /><Point X="139.940976493" Y="35.893964114" /><Point X="139.940992099" Y="35.893956169" /><Point X="139.941007705" Y="35.893955526" /><Point X="139.941030439" Y="35.893950838" /><Point X="139.941046044" Y="35.893950194" /><Point X="139.941054522" Y="35.893953595" /><Point X="139.941078605" Y="35.893956352" /><Point X="139.941101339" Y="35.893951664" /><Point X="139.941116945" Y="35.89394372" /><Point X="139.941132551" Y="35.893943076" /><Point X="139.941155285" Y="35.893931087" /><Point X="139.941169541" Y="35.893915698" /><Point X="139.941185147" Y="35.893915054" /><Point X="139.941207881" Y="35.893903065" /><Point X="139.941215009" Y="35.89389172" /><Point X="139.941237743" Y="35.893887032" /><Point X="139.941253349" Y="35.893879087" /><Point X="139.941276083" Y="35.893874399" /><Point X="139.941291689" Y="35.893873756" /><Point X="139.941307294" Y="35.893865811" /><Point X="139.941330028" Y="35.893861123" /><Point X="139.941337157" Y="35.893857079" /><Point X="139.941344285" Y="35.893845734" /><Point X="139.941367019" Y="35.893833745" /><Point X="139.941374147" Y="35.893829701" /><Point X="139.941372798" Y="35.893807654" /><Point X="139.941379926" Y="35.89380361" /><Point X="139.941387054" Y="35.893784963" /><Point X="139.941385705" Y="35.893770218" /><Point X="139.941399962" Y="35.893754828" /><Point X="139.94140709" Y="35.893743483" /><Point X="139.941414218" Y="35.893732138" /><Point X="139.941421346" Y="35.893720792" /><Point X="139.941419997" Y="35.893706047" /><Point X="139.941427125" Y="35.893694701" /><Point X="139.941434253" Y="35.893683356" /><Point X="139.941434253" Y="35.893676055" /><Point X="139.941434253" Y="35.893668754" /><Point X="139.941434253" Y="35.893661453" /><Point X="139.941434253" Y="35.893661453" /><Point X="139.941434253" Y="35.893661453" /><Point X="139.941434253" Y="35.893661453" /><Point X="139.941427125" Y="35.893665497" /><Point X="139.941427125" Y="35.893665497" /><Point X="139.941427125" Y="35.893665497" /><Point X="139.941427125" Y="35.893665497" /><Point X="139.941427125" Y="35.893665497" /><Point X="139.941427125" Y="35.893665497" /><Point X="139.941427125" Y="35.893665497" /><Point X="139.941427125" Y="35.893665497" /><Point X="139.941427125" Y="35.893665497" /><Point X="139.941419997" Y="35.893669541" /><Point X="139.941419997" Y="35.893669541" /><Point X="139.941412869" Y="35.893673586" /><Point X="139.941414218" Y="35.893673729" /><Point X="139.941412869" Y="35.893666284" /><Point X="139.941412869" Y="35.893658983" /><Point X="139.94141152" Y="35.893644238" /><Point X="139.941418648" Y="35.893632892" /><Point X="139.941425776" Y="35.893621547" /><Point X="139.941441382" Y="35.893613602" /><Point X="139.941456987" Y="35.893612959" /><Point X="139.941472593" Y="35.893612315" /><Point X="139.941488199" Y="35.893611671" /><Point X="139.941503804" Y="35.893611028" /><Point X="139.94151941" Y="35.893610384" /><Point X="139.941543493" Y="35.893620442" /><Point X="139.941559099" Y="35.893619798" /><Point X="139.941574705" Y="35.893626456" /><Point X="139.941591659" Y="35.893633257" /><Point X="139.941607265" Y="35.893632613" /><Point X="139.941615743" Y="35.893643315" /><Point X="139.941631348" Y="35.893642671" /><Point X="139.941639826" Y="35.893653373" /><Point X="139.941655431" Y="35.893652729" /><Point X="139.941679515" Y="35.893662787" /><Point X="139.941687992" Y="35.893666187" /><Point X="139.941703598" Y="35.893672845" /><Point X="139.941712075" Y="35.893683546" /><Point X="139.941721902" Y="35.893701692" /><Point X="139.94173038" Y="35.893712394" /><Point X="139.941738857" Y="35.893723096" /><Point X="139.941747335" Y="35.893733797" /><Point X="139.941740207" Y="35.893745142" /><Point X="139.941741556" Y="35.893759888" /><Point X="139.941734428" Y="35.893771234" /><Point X="139.941735777" Y="35.893785979" /><Point X="139.941721521" Y="35.893801369" /><Point X="139.941714392" Y="35.893812714" /><Point X="139.941707264" Y="35.893824059" /><Point X="139.941700136" Y="35.893835405" /><Point X="139.941701485" Y="35.893857451" /><Point X="139.941687229" Y="35.893872841" /><Point X="139.941680101" Y="35.893884186" /><Point X="139.941672973" Y="35.893902833" /><Point X="139.941657367" Y="35.893910777" /><Point X="139.941658716" Y="35.893925523" /><Point X="139.941651588" Y="35.893936868" /><Point X="139.94164446" Y="35.893948214" /><Point X="139.941637331" Y="35.893959559" /><Point X="139.941630203" Y="35.893978205" /><Point X="139.941623075" Y="35.893989551" /><Point X="139.941615947" Y="35.894000896" /><Point X="139.941608819" Y="35.894012241" /><Point X="139.94160169" Y="35.894030887" /><Point X="139.941594562" Y="35.894042233" /><Point X="139.941595911" Y="35.894056978" /><Point X="139.941588783" Y="35.894068324" /><Point X="139.941581655" Y="35.894079669" /><Point X="139.941574527" Y="35.894091014" /><Point X="139.941567398" Y="35.894102359" /><Point X="139.941553142" Y="35.894117749" /><Point X="139.941546014" Y="35.894129094" /><Point X="139.941538886" Y="35.89414044" /><Point X="139.941540235" Y="35.894155185" /><Point X="139.941533107" Y="35.894166531" /><Point X="139.941525978" Y="35.894177876" /><Point X="139.94151885" Y="35.894189221" /><Point X="139.941511722" Y="35.894200566" /><Point X="139.941504594" Y="35.894211912" /><Point X="139.941505943" Y="35.894233959" /><Point X="139.941505943" Y="35.89424126" /><Point X="139.941522898" Y="35.894255362" /><Point X="139.941531375" Y="35.894266063" /><Point X="139.941539853" Y="35.894269464" /><Point X="139.941548331" Y="35.894280165" /><Point X="139.941563936" Y="35.894286823" /><Point X="139.941572414" Y="35.894297524" /><Point X="139.941580891" Y="35.894308226" /><Point X="139.941589369" Y="35.894311627" /><Point X="139.941590718" Y="35.894333673" /><Point X="139.941599196" Y="35.894344375" /><Point X="139.941623279" Y="35.894354433" /><Point X="139.941631757" Y="35.894357833" /><Point X="139.941647363" Y="35.89435719" /><Point X="139.941654491" Y="35.894353145" /><Point X="139.941662969" Y="35.894356546" /><Point X="139.941678574" Y="35.894363203" /><Point X="139.94169418" Y="35.89436256" /><Point X="139.941711135" Y="35.894376662" /><Point X="139.941726741" Y="35.894376018" /><Point X="139.941742347" Y="35.894375374" /><Point X="139.941750825" Y="35.894386076" /><Point X="139.94176643" Y="35.894385432" /><Point X="139.941782036" Y="35.894392089" /><Point X="139.941797642" Y="35.894391446" /><Point X="139.941821725" Y="35.894401504" /><Point X="139.941837331" Y="35.894408161" /><Point X="139.941845809" Y="35.894411561" /><Point X="139.941861415" Y="35.894410918" /><Point X="139.941885498" Y="35.894420975" /><Point X="139.941901104" Y="35.894420332" /><Point X="139.941909582" Y="35.894423732" /><Point X="139.941925187" Y="35.89443039" /><Point X="139.941949271" Y="35.894433146" /><Point X="139.941964877" Y="35.894439804" /><Point X="139.941972005" Y="35.894428458" /><Point X="139.941987611" Y="35.894427815" /><Point X="139.941987611" Y="35.894427815" /><Point X="139.941987611" Y="35.894427815" /><Point X="139.941987611" Y="35.894427815" /><Point X="139.941987611" Y="35.894427815" /><Point X="139.941987611" Y="35.894420514" /><Point X="139.941979133" Y="35.894417113" /><Point X="139.941979133" Y="35.894417113" /><Point X="139.941979133" Y="35.894417113" /><Point X="139.941979133" Y="35.894417113" /><Point X="139.941979133" Y="35.894417113" /><Point X="139.941979133" Y="35.894417113" /><Point X="139.941979133" Y="35.894417113" /><Point X="139.941979133" Y="35.894417113" /><Point X="139.941987611" Y="35.894420514" /><Point X="139.941987611" Y="35.894427815" /><Point X="139.941996088" Y="35.894431215" /><Point X="139.942004566" Y="35.894441917" /><Point X="139.942020172" Y="35.894441273" /><Point X="139.942037127" Y="35.894455375" /><Point X="139.942052733" Y="35.894454731" /><Point X="139.942061211" Y="35.894465433" /><Point X="139.942085294" Y="35.89446819" /><Point X="139.942093772" Y="35.89447159" /><Point X="139.942117855" Y="35.894474347" /><Point X="139.942133461" Y="35.894481004" /><Point X="139.942141939" Y="35.894484405" /><Point X="139.942157544" Y="35.894483761" /><Point X="139.942166022" Y="35.894494463" /><Point X="139.942190106" Y="35.894497219" /><Point X="139.942205711" Y="35.894496576" /><Point X="139.942221317" Y="35.894503233" /><Point X="139.942238273" Y="35.894510034" /><Point X="139.942253878" Y="35.894516691" /><Point X="139.942277962" Y="35.894526749" /><Point X="139.94228644" Y="35.894530149" /><Point X="139.942294917" Y="35.89453355" /><Point X="139.942310523" Y="35.894540207" /><Point X="139.942327478" Y="35.894554309" /><Point X="139.942343084" Y="35.894553665" /><Point X="139.94235869" Y="35.894560323" /><Point X="139.942367168" Y="35.894563723" /><Point X="139.942382774" Y="35.894563079" /><Point X="139.942382774" Y="35.894563079" /><Point X="139.942382774" Y="35.894563079" /><Point X="139.942382774" Y="35.894563079" /><Point X="139.942382774" Y="35.894563079" /><Point X="139.942382774" Y="35.894563079" /><Point X="139.942382774" Y="35.894563079" /><Point X="139.942382774" Y="35.894563079" /><Point X="139.942382774" Y="35.894563079" /><Point X="139.942382774" Y="35.894563079" /><Point X="139.942382774" Y="35.894563079" /><Point X="139.942382774" Y="35.894563079" /><Point X="139.942382774" Y="35.894563079" /><Point X="139.942382774" Y="35.894563079" /><Point X="139.942382774" Y="35.894563079" /><Point X="139.942382774" Y="35.894563079" /><Point X="139.942382774" Y="35.894563079" /><Point X="139.942382774" Y="35.89457038" /><Point X="139.942384123" Y="35.894585126" /><Point X="139.942391251" Y="35.894581082" /><Point X="139.942399729" Y="35.894591783" /><Point X="139.942399729" Y="35.894599084" /><Point X="139.942408207" Y="35.894609786" /><Point X="139.942416684" Y="35.894620487" /><Point X="139.942418034" Y="35.894627932" /><Point X="139.942419383" Y="35.894642678" /><Point X="139.942405127" Y="35.894658068" /><Point X="139.942406477" Y="35.894665513" /><Point X="139.942406477" Y="35.894672814" /><Point X="139.942407826" Y="35.894687559" /><Point X="139.942407826" Y="35.89469486" /><Point X="139.942416304" Y="35.894705562" /><Point X="139.942409176" Y="35.894716907" /><Point X="139.942409176" Y="35.894716907" /><Point X="139.942402048" Y="35.894728253" /><Point X="139.942402048" Y="35.894728253" /><Point X="139.942394919" Y="35.894739598" /><Point X="139.942394919" Y="35.894746899" /><Point X="139.942394919" Y="35.894746899" /><Point X="139.942394919" Y="35.894746899" /><Point X="139.942394919" Y="35.894746899" /><Point X="139.942394919" Y="35.894746899" /><Point X="139.942394919" Y="35.894746899" /><Point X="139.942394919" Y="35.894746899" /><Point X="139.942394919" Y="35.8947542" /><Point X="139.942394919" Y="35.8947542" /><Point X="139.942394919" Y="35.8947542" /><Point X="139.942394919" Y="35.894746899" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942386442" Y="35.894736197" /><Point X="139.942386442" Y="35.894736197" /><Point X="139.942394919" Y="35.894739598" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.942402048" Y="35.894742854" /><Point X="139.942402048" Y="35.894742854" /><Point X="139.942402048" Y="35.894742854" /><Point X="139.942402048" Y="35.894735554" /><Point X="139.94239357" Y="35.894732153" /><Point X="139.94239357" Y="35.894732153" /><Point X="139.94239222" Y="35.894717407" /><Point X="139.942385092" Y="35.894721451" /><Point X="139.942385092" Y="35.894721451" /><Point X="139.942385092" Y="35.894721451" /><Point X="139.942385092" Y="35.894721451" /><Point X="139.942385092" Y="35.894721451" /><Point X="139.942385092" Y="35.894721451" /><Point X="139.942385092" Y="35.894721451" /><Point X="139.942385092" Y="35.894721451" /></Path>
+        </Polyline>
+      </Graphic>
+    </Note>
+  </ChildItems>
+  <Presentation>
+    <Basemaps />
+    <Slides />
+  </Presentation>
+  <Properties>
+    <StoreAuthentication>false</StoreAuthentication>
+    <ScreenOverlay />
+  </Properties>
+</NmfDocument>
